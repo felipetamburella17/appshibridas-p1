@@ -1,4 +1,4 @@
-import Product from "../models/productModel.js";
+import Product from "../models/productoModel.js";
 
 
 // asincronica para crear el producto
